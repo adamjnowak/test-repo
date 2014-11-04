@@ -28,9 +28,8 @@ Code
 -------------------
 
 ```php
-$user = ORM::for_table('user')
-    ->where_equal('username', 'j4mie')
-    ->find_one();
+$var = 'this is the value';
+functioncall(1,'two');
 ```
 
 Changelog
